@@ -1,4 +1,4 @@
-FROM Ubuntu:14.04
+FROM ubuntu:14.04
 MAINTAINER bokai
 
 RUN apt-get update
